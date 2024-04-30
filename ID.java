@@ -11,9 +11,22 @@ public class ID {
    // Setter para iDADE
    public void setIdade(int idade) {
     this.idade = idade;
+    
    }
    //Setter para email
    public void setEmail(String email) {
     this.email = email;
    }
+   public String getIdade() {
+      // TODO Auto-generated method stub
+      throw new UnsupportedOperationException("Unimplemented method 'getIdade'");
+   }
+   public String getNome() {
+      // TODO Auto-generated method stub
+      throw new UnsupportedOperationException("Unimplemented method 'getNome'");
+   }
+public String getEmail() {
+    // TODO Auto-generated method stub
+    throw new UnsupportedOperationException("Unimplemented method 'getEmail'");
+}
 }
